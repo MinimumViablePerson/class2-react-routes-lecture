@@ -1,0 +1,24 @@
+{
+  "store": [
+    {
+      "id": 1,
+      "title": "Socks",
+      "image": "https://images.pexels.com/photos/251454/pexels-photo-251454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 2,
+      "title": "Shoes",
+      "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "title": "Surfoard",
+      "image": "https://images.pexels.com/photos/1924712/pexels-photo-1924712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 4,
+      "title": "Hat",
+      "image": "https://images.pexels.com/photos/7862287/pexels-photo-7862287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}

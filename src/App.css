@@ -1,0 +1,19 @@
+.store-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.store-item {
+  border: solid 1px rgba(0, 0, 0, 0.44);
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.store-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+
+}
